@@ -13,6 +13,7 @@
 ---
 ## Summary Statistics on Suspension Coils
 ![](Images/del2_total_sum.png)
+---
 ![](Images/del2_lot_sum.png)
 * I believe the current manufacturing data presents that the design specification which states, "The variance of the suspension coils must not exceed 100 pounds per square inch", is being met for all manufacturing lots in total, but only for 'Lot1' and 'Lot2' when analyzed individually because the average variance across all lots is only ~1.79 lbs per square inch. However, 'Lot3' has a variance of ~170.29 lbs per square inch, clearly exceeding the design specification. 
 ---
