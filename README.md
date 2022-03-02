@@ -28,19 +28,19 @@
 
 ### Lot2 - Population
 ![](Images/del3_lot2.png)
-* When a one-sample t-test was conducted amongst the mean of all Lot2 vehicles' lbs./PSI and the population mean of 1500 lbs./PSI, again the p-value exceeds the 0.05 threshold. Therefore, we cannot statistically reject the null hypothesis.
+* When a one-sample t-test was conducted amongst the mean of all Lot2 vehicles' lbs./PSI and the population mean of 1500 lbs./PSI, the p-value again, exceeds the 0.05 threshold. Therefore, we cannot statistically reject the null hypothesis.
 
 ### Lot3 - Population 
 ![](Images/del3_lot3.png)
 * The above results show that when a one-sample t-test was conducted amongst the mean of all Lot3 vehicles' lbs./PSI and the population mean of 1500 lbs./PSI, the p-value does not exceed the 0.05 threshold. Therefore, we can statistically reject the null hypothesis. 
 ---
-## Study Design: MechaCar vs Competition
+## Study Design Proposal: MechaCar vs Competition
 * A statistical study that can quantify how the MechaCar performs against the competition would include the following metrics that would be of interest to consumers:
   1. City Fuel Efficiency
   2. Highway Fuel Efficiency
   3. Horsepower
   4. Break Control (Avg. time it takes car to completely stop from travelling 100 km/h)
-  5. Longevity (Average lifespan of car defined by average km. driven before owner purchases new primary vehicle --> other assumptions will likely need to be met for this metric to be of use to consumers) 
- * The null hypothesis would be that the above metric means for the MechaCar do not statistically differ from the population metric means (The mean of each metric across all competition)
- * To test this hypothesis, I would first use a multiple regression analysis using historical data to collect the required data for each metric (after taking all necessary steps to ensure the data complies with any of this statistical test's assumptions and that the test's results are statistically valid) so that as many one-sample t-tests can be computed to reveal if our null hypothesis can be statistically rejected. 
+  5. Longevity (Average lifespan of car defined by average km. driven before owner purchases new primary vehicle --> other assumptions will likely need to be accurately made for this metric to be of use to consumers) 
+ * The null hypothesis would be that the above metric's means for the MechaCar do not statistically differ from the population metric means (The mean of each metric across all competition)
+ * To test this hypothesis, I would first use a multiple regression analysis using historical data to collect the required data for each metric (after taking all necessary steps to ensure the data complies with any of this statistical test's assumptions and that the test's results are statistically valid) so that as many one-sample t-tests as necessary can be computed to reveal if our null hypothesis can be statistically rejected. 
  * Historical data across all of the above metrics, as well as the data produced by the multiple regression analysis would be needed to run the statistical test.
