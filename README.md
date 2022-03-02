@@ -44,3 +44,8 @@
  * The null hypothesis would be that the above metric's means for the MechaCar do not statistically differ from the population metric means (The mean of each metric across all competition)
  * To test this hypothesis, I would first use a multiple regression analysis using historical data to collect the required data for each metric (after taking all necessary steps to ensure the data complies with any of this statistical test's assumptions and that the test's results are statistically valid) so that as many one-sample t-tests as necessary can be computed to reveal if our null hypothesis can be statistically rejected. 
  * Historical data across all of the above metrics, as well as the data produced by the multiple regression analysis would be needed to run the statistical test.
+---
+## Tools/Packages Used
+* R
+ - ggplot2
+ - tidyverse
