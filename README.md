@@ -47,5 +47,5 @@
 ---
 ## Tools/Packages Used
 * R
- - ggplot2
- - tidyverse
+  - ggplot2
+  - tidyverse
