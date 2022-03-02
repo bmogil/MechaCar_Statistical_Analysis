@@ -7,7 +7,7 @@
   * Vehicle Length
   * Ground Clearance
 
-2. As evidenced by the p-value displayed above, the slope of the linear model is considered not be zero. Since the p-value is well below the (presumed) 0.05 threshold ... it can be statistically/reasonably concluded that the null hypothesis, which is--the slope of the linear model is zero and thereby thereby no statistically significant correlation exists between any of the points--can be rejected. 
+2. As evidenced by the p-value displayed above, the slope of the linear model can be considered to not be zero. Since the p-value is well below the (presumed) 0.05 threshold ... it can be statistically/reasonably concluded that the null hypothesis, which is--the slope of the linear model is zero and thereby thereby no statistically significant correlation exists between any of the points--can be rejected. 
 
 3. In my opinion, this linear model does not predict mpg of MechaCar prototypes effectively because the intercept term explains a significant amount of variability in the dependent variable when all independent variables are equal to zero. Therefore, this could mean that the other significant variables (vehicle length and ground clearance) need scaling or transforming to help increase the predictive power of the model. Another possibility is that there are other independent variables that are significantly contributing to the variability of the dependent variable that are not included in this model. 
 ---
